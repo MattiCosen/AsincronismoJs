@@ -9,6 +9,8 @@
   "author": "Matti Cosentino",
   "license": "MIT",
   "dependencies": {
+    "node-fetch": "^3.2.6",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
